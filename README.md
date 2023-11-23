@@ -1,6 +1,6 @@
 # Website
 Site web personnel pour présenter mes projets et compétences
-
+Consultez ceci
 my-personal-website/
 |-- index.html
 |-- css/
@@ -10,5 +10,5 @@ my-personal-website/
 |-- images/
 |   |-- profile.jpg
 |-- README.md
-|-- LICENSE (vous pouvez choisir une licence appropriée)
+|-- LICENSE 
 |-- .gitignore
